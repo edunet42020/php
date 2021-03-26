@@ -77,7 +77,7 @@ input[type=submit]:hover {
 <body class="bg">
 <div class="container">
 <div class="card">
-   <form action="insert.php" method="get">
+   <form action="insert.php" method="post">
         <p class="cent">Student registration form</p>
         <div class="p">
             <input type="text" name="name" required placeholder="Enter your full name"/>
